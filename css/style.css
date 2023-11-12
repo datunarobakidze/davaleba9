@@ -28,7 +28,42 @@ li {
   width: 1440px;
   background-image: url("/images/section.jpg");
   background-repeat: no-repeat;
+  margin-top: 20px;
 }
 .card1 {
   width: 150px;
+  margin-top: 180px;
+  margin-left: 100px;
+  display: inline-block;
+}
+h1 {
+  color: #010101;
+  font-family: Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 35px;
+}
+h2,
+p {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 37px;
+}
+.parent {
+  width: 736px;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  justify-content: space-between;
+
+  align-content: space-around;
+  margin-left: 85px;
+  margin-bottom: 84px;
 }
