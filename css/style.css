@@ -1,0 +1,34 @@
+li {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.geolablogo {
+  margin-left: 99px;
+  margin-top: 24px;
+  display: inline-block;
+}
+.navigacia {
+  display: inline-block;
+}
+.mshobeli {
+  display: flex;
+  justify-content: space-between;
+}
+li {
+  display: inline-block;
+  margin-top: 33px;
+  margin-right: 78px;
+}
+.s1 {
+  height: 606px;
+  width: 1440px;
+  background-image: url("/images/section.jpg");
+  background-repeat: no-repeat;
+}
+.card1 {
+  width: 150px;
+}
